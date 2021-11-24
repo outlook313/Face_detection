@@ -7,4 +7,4 @@ To create a complete project on Face Recognition, we must work on 3 very distinc
     2) Train the Recognizer<br>
     3) Face Recognition<br>
     
-    ![face](https://user-images.githubusercontent.com/89722385/143178836-126ed5ca-56a5-464e-be30-9bc79bca747b.png)
+   ![face](https://user-images.githubusercontent.com/89722385/143188689-7a7c7994-cbf2-43fc-a971-6be4239ec281.jpeg)
